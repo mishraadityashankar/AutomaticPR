@@ -1,7 +1,7 @@
 const simpleGit = require("simple-git");
 const git = simpleGit.default();
-const branchName = "test";
-const commitMsg = "initial commit";
+const branchName = "test1";
+const commitMsg = "initial commit1";
 const prMsg = "initial";
 async function main() {
   try {

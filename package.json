@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mishraadityashankar/AutomaticPR#readme",
   "dependencies": {
+    "create-pull-request": "^1.4.0",
     "simple-git": "^3.10.0"
   }
 }
